@@ -52,7 +52,7 @@ class _IntroSliderState extends State<IntroSlider> {
                   ),
 
                   BuildIntroPage(
-                    img: 'assets/img_2.jpg',
+                    img: 'assets/img_3.jpg',
                     title: 'Page Three',
                     description: 'After peeling the strawberries, '
                         'soak lettuce, pumpkin seeds and '
