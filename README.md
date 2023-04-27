@@ -2,8 +2,6 @@
 
 A new Flutter project.
 
-A new Flutter project.
-
 ## DEMO
 
 ### youtube tutorial
